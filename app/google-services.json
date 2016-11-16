@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "983334433543",
+    "firebase_url": "https://testing-739c9.firebaseio.com",
+    "project_id": "testing-739c9",
+    "storage_bucket": "testing-739c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983334433543:android:700e30cabb32bdd4",
+        "android_client_info": {
+          "package_name": "com.example.root.dravis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983334433543-du7sogm3i4gpnivkutb5g214ostp82i0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWA0vqXSH9rFfybXmPNQa2VRad3DNmp5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
